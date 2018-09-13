@@ -10,8 +10,8 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 
 
 ### ** Announcements ** <br />
-**[For 14-09-18 Lab Session]** <br />~~
-* Do all lab activites and make a short report <br />~~
+**[For 14-09-18 Lab Session]** <br />
+* Do all lab activites and make a short report <br />
 
 
 
@@ -55,5 +55,5 @@ AFTER - <br />
 
 
 # Course Outline
-![Course Outline](https://raw.githubusercontent.com/cannedbot/MCTE3104/master/images/contents.png)
+![Course Outline](https://github.com/cannedbot/MCTE3104-s1.1819/blob/master/images/contents.png)
 
