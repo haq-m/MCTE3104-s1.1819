@@ -21,6 +21,10 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 * All groups by right are given 2 boxes filled with experimental items for this course and it is loan based so don't lose any items in it! <br />
 * You all gotta wear the Green jacket and no open toe shoes allowed. NO EXCUSES HERE! <br />
 * All groups are required to have their own Log Book. <br />
+* For the time being all weekly videos will be posted [here](https://drive.google.com/drive/folders/1q7zJTKLDwgp4sHDoMBwXg993JQYUy6ou?usp=sharing)<br />
+* For the time being all electronics related tutorial videos will be posted here  [here](https://drive.google.com/drive/folders/1CyjSdRRWxwblfkA4reiO971bMIzO6N0H?usp=sharing)<br />
+
+
 
 
 ### ** IMPORTANT SETUP ** <br />
