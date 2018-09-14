@@ -23,6 +23,7 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 * All groups are required to have their own Log Book. <br />
 * For the time being all weekly videos will be posted [here](https://drive.google.com/drive/folders/1q7zJTKLDwgp4sHDoMBwXg993JQYUy6ou?usp=sharing)<br />
 * For the time being all electronics related tutorial videos will be posted here  [here](https://drive.google.com/drive/folders/1CyjSdRRWxwblfkA4reiO971bMIzO6N0H?usp=sharing)<br />
+* Template for report [here](https://drive.google.com/file/d/1wKi97PEqTDcj2rP57fSVPmRB2GvFwPCZ/view?usp=sharing) <br />
 
 
 
