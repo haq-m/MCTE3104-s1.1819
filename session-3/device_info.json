@@ -1,0 +1,14 @@
+{
+    "device1":{
+        "pressure_sensor":234,
+        "temperature_sensor":45,
+        "Switch":"On",
+        "potentiometer_reading":432,
+        "read_history":[
+            123,
+            231,
+            354,
+            243
+        ]
+    }
+}
